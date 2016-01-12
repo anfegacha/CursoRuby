@@ -1,4 +1,40 @@
 
 Este es un pequeño archivo donde voy a tener las notas del curso de Ruby, la idea es poder tener una guia para este curso que voy a empezar.
 
+Ruby:
+	Es un lenguaje de tipo dinamico es decir que los tipos de clase de los 
+	objetos son definidos en su tiempo de ejecucion.
+
+	Es basado en programacion orientada a objetos.
+
+Ruby y su Interprete:
+
+	Todo lenguaje tiene dos lados: 
+		La sintaxis es la forma en que escribimos el codigo.
+		La implementacion es la forma en como se ejecuta nuestro codigo 		en la computadora.
+
+	Ruby es interpretado por MRI el cual fue programado en C.	
+		
+	Caracteristicas de Ruby.
+		Es orientado  a objetos.
+		Las variables tienen un tipo de clase dinamico.
+		Todo es una expresion y todo devuelve un valor y todo es un obje		to.
+
+Que son las gemas:
+	Son una biblioteca de codigo escrita en Ruby y empaqueta en gem.
+
+Administradores De Rubies:
+	Nos sirve para tener diferentes rubies para diferentes proyectos donde u	semos diferentes versiones.
+
+	Otro Administrador es rbenv.
+		Comandos de rbenv:
+			rbenv version :nos da la version de ruby
+			rbenv local "version de ruby": nos sirve para usar
+							diferentes versiones en 							proyectos.
+
+El shell interctivo irb:
+	Nos permite interactuar ocn el sistema operativo a traves de codigo ruby.
+
+Erb:
+	Nos permite utilizar ruby y nos va a permitir realizar documentacion de 	cualquier formato con la interaccion de Ruby.
 
